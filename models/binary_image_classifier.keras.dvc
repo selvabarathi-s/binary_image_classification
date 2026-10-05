@@ -1,0 +1,5 @@
+outs:
+- md5: 774c2aea451643b3249fe0c35d1644f8
+  size: 79822620
+  hash: md5
+  path: binary_image_classifier.keras
